@@ -5,3 +5,5 @@ var ,const and console are in use
 string variables
 number variables
 calculations
+...
+
